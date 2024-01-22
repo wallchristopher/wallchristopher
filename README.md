@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Wall
+
+- 🖥️ I've been playing around and breaking computers for past +20 years with over 6 of those professionaly
+- 🏗️ I'm currently working on creating a playground for open source projects to see how they fit in with each other
+- 🔍 I'm currently learning Golang as all the tools I use seem to be built in the language.
 
 <!--
 **wallchristopher/wallchristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
